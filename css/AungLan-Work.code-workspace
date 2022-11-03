@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Intern Project/AboutMe"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "AungLan-Work"
+	}
+}
